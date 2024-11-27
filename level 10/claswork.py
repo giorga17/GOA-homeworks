@@ -8,4 +8,4 @@ for i in range(-10,10,3):
     print(i)
 
 input(num1 = 20, num2 = 15)
-print(num1 )
+print()
